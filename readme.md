@@ -11,9 +11,5 @@ The project is created for learning and practice purposes.
 - CSS
 
 ---
+print('hello students'); 
 
-##  Project Structure
-my-project/
-│── index.html
-│── style.css
-│── README.md
